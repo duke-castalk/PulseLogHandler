@@ -3,7 +3,7 @@
 // Copyright (c) 2020–2023 Alexander Grebenyuk (github.com/kean).
 
 import Foundation
-import Pulse
+import PulseCore
 import Logging
 
 public typealias NetworkLogger = Pulse.NetworkLogger
